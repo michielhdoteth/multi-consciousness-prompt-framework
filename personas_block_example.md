@@ -1,4 +1,4 @@
-# PROMETHEUS Personas Block — Quantum Physics and AI Giants
+# Multi-Consciousness Personas Block — Quantum Physics and AI Giants
 
 {
   Persona 1

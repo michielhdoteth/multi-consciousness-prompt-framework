@@ -1,4 +1,4 @@
-# === PROMETHEUS Personas Block Template ===
+# === Multi-Consciousness Personas Block Template ===
 # (Define each persona's quantum identity, description, and attributes.)
 
 {
